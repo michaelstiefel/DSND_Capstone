@@ -1,1 +1,1 @@
-# DSND_Capstone
+# Predicting Customer Churn in Sparkify
